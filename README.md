@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bengoodheart 🧑‍💻
--  🥞I'm a full stack developer who also manages product
+-  🥞I'm a full stack developer who also manages product 🎫
 - 🎶 Most of my personal projects are influenced by music, art and sports! 🎨 
 - 🌱 Learning new things about computation every day! ⌨️
 <!---
